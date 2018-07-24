@@ -13,6 +13,7 @@ breakfast
 def lunch(food = "grilled cheese")
   puts "Noon, is the right time for #{food}!"
 end
+lunch("toast")
 
 def dinner(food = "salmon")
 puts "Night, is the right time for #{food}!"
