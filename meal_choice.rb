@@ -8,7 +8,6 @@ end
 def breakfast(food = "frosted flake")
   puts "Morning, is the right time for #{food}!"
 end
-breakfast
 
 def lunch(food = "grilled cheese")
   puts "Noon, is the right time for #{food}!"
@@ -17,7 +16,6 @@ end
 def dinner(food = "salmon")
 puts "Night, is the right time for #{food}!"
 end
-dinner
 
 # Call the methods with puts and your own arguments here. Like this:
 puts snacks("Swedish fish")
