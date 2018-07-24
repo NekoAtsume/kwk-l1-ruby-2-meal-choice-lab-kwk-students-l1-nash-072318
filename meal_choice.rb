@@ -10,7 +10,7 @@ def breakfast(food = "frosted flake")
 end
 
 def lunch(food = "grilled cheese")
-  puts "Noon, is the right time for #{food}!"
+  puts "Afternoon, is the right time for #{food}!"
 end
 
 def dinner(food = "salmon")
